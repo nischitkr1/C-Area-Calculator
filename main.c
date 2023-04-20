@@ -62,6 +62,7 @@ int main()
         printf("Invalid Option!");
         // exit from the switch case
         break;
+    return 0;
     }
 }
 
