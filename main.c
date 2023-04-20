@@ -12,7 +12,7 @@ int main()
     // variable to store an integer value as the option seleted from the menu 
     int option;
     // print a message as title of the program
-    printf("Area Calculator\n");
+    printf("C Area Calculator\n");
     // print a menu of different shapes
     printf("1. Square\n");
     printf("2. Circle\n");
